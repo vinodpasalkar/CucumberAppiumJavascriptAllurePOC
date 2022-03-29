@@ -1,0 +1,23 @@
+{
+  "name": "cucumberappiumjavascriptallurepoc",
+  "version": "1.0.0",
+  "description": "cucumberappiumjavascriptallurepoc",
+  "main": "index.js",
+  "dependencies": {
+    "@wdio/allure-reporter": "^7.19.0",
+    "assert": "2.0.0",
+    "chai": "4.2.0",
+    "cucumber": "6.0.5",
+    "cucumberjs-allure2-reporter": "^1.3.0",
+    "selenium-webdriver": "4.0.0-alpha.7",
+    "smart-timeout": "^2.6.1"
+  },
+  "scripts": {
+    "test": "npm install"
+  },
+  "author": "vinodpasalkar",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.17.2"
+  }
+}
